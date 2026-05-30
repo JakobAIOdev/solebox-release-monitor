@@ -6,6 +6,8 @@ seen.json
 solebox-monitor
 *.log
 *.png
+!assets/
+!assets/*.png
 .solebox-monitor.lock
 .DS_Store
 .codex/

@@ -8,6 +8,8 @@ It watches Solebox's live product surfaces, enriches discovered products through
 
 On May 30, 2026 at 08:11 CEST, this monitor successfully caught the Solebox release of `x Travis Scott Air Jordan 1 Low SP "Shy Pink"` as a new product alert, including image, product URL, SKU, price, and stock data.
 
+![Solebox monitor Discord alert for the Travis Scott Air Jordan 1 Low SP Shy Pink release](assets/travis-jordan-1-low-alert.png)
+
 ## Features
 
 - Live new-product discovery from Solebox's `Neu` category.
