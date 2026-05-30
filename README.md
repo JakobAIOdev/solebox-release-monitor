@@ -105,20 +105,6 @@ Optional overrides:
 
 For normal Solebox DE monitoring, `AUTHORIZATION_BEARER` and `X_CHARYBDIS` can stay empty.
 
-## GitHub Safety
-
-Do not commit runtime files:
-
-- `.env`
-- `seen.json`
-- `.solebox-monitor.lock`
-- `solebox-monitor`
-- `*.log`
-- `*.png`
-- `.codex/`
-
-These are already covered by `.gitignore`.
-
 ## Requirements
 
 - Go 1.22 or newer.
