@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+seen.json
+*.json.tmp
+solebox-monitor
+*.log
+*.png
+.solebox-monitor.lock
+.DS_Store
+.codex/
